@@ -1042,9 +1042,14 @@ may be written.
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
             </gap>
-            <figure/>
+            <p>
+               <pb n="10" facs="tcp:105147:15"/>About the characters that are flat, or lye even with the line, as <hi>p</hi> and <hi>n,</hi> they are thus disposed;
+<figure/>
+            </p>
             <p>The place of <hi>a</hi> is just over the middle of the letter: the place of <hi>u</hi> just against it under the letter; the other three <hi>e, i,</hi> and <hi>o,</hi> on the right side one under ano<g ref="char:EOLhyphen"/>ther.</p>
-            <figure/>
+            <p>About slope characters, as <hi>m,</hi> and <hi>t,</hi> they are placed thus
+<figure/>
+            </p>
             <p>The places about any of the rest are easily observed.</p>
          </div>
          <div n="5" type="chapter">
